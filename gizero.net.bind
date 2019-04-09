@@ -1,0 +1,11 @@
+$ORIGIN gizero.net.
+$TTL 1800
+gizero.net. IN SOA ns1.digitalocean.com. hostmaster.gizero.net. 1552576741 10800 3600 604800 1800
+gizero.net. 1800 IN NS ns1.digitalocean.com.
+gizero.net. 1800 IN NS ns2.digitalocean.com.
+gizero.net. 1800 IN NS ns3.digitalocean.com.
+gizero.net. 1800 IN A 128.199.63.20
+www.gizero.net. 1800 IN A 128.199.63.20
+greenland.gizero.net. 1800 IN A 128.199.63.20
+vpn.gizero.net. 1800 IN A 128.199.63.20
+pippo.pluto.gizero.net. 1800 IN A 128.199.63.20
